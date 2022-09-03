@@ -1,0 +1,51 @@
+.popup{
+	display: grid;
+	width: 600px;
+	height: 400px;
+	box-sizing: border-box;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	border-radius: 30px;
+	position: fixed;
+	z-index: 2;
+	grid-template-columns: 280px 1fr;
+
+	&__button {
+		position: absolute;
+		bottom: 15px;
+		right: 15px;
+	}
+
+	h4{
+		font-family: "Nunito", Roboto, system-ui, Tahoma, sans-serif;
+		font-size: 20px;
+		font-weight: 900;
+		padding-top: 30px;
+		padding-left: 0px;
+		padding-bottom: 50px;
+	}
+	img {
+		width: 260px;
+		justify-self: center;
+		align-self:center;
+	}
+	svg {
+		cursor: pointer;
+		position: absolute;
+		top: 15px;
+		right: 15px;
+		transition: transform 330ms;
+	}
+	svg:hover {
+		transform: rotate(90deg);
+		transition: transform 330ms;
+	}
+}
+.description{
+	&__span{
+		font-family: "Nunito", Roboto, system-ui, Tahoma, sans-serif;
+		font-weight: 450;
+	}
+}

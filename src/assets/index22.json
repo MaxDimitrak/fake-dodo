@@ -1,0 +1,385 @@
+[
+	{
+		"id": 1,
+		"name": "Индейка с овощами гриль",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/976f35411e314f6b9cfdaf8461fa08da_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 1,
+		"category": 1
+	},
+	{
+		"id": 2,
+		"name": "Белая пепперони",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/02270e55a3204ccaaf26d75f0c817d28_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0
+		],
+		"price": 439,
+		"raiting": 2,
+		"category": 1
+	},
+	{
+		"id": 3,
+		"name": "Ветчина и сыр",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/5630c6ed3f394c7ba25e1ef79a67b7ee_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			1
+		],
+		"price": 329,
+		"raiting": 3,
+		"category": 5
+	},
+	{
+		"id": 4,
+		"name": "Сырная 🌱👶",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/10abc7eb6428475c9263709a1266558c_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			1
+		],
+		"price": 299,
+		"raiting": 4,
+		"category": 5
+	},
+	{
+		"id": 5,
+		"name": "Карбонара",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/7a8164f7c43646e19c20001eaec9b031_760x760.jpeg",
+		"sizes": [
+			25,
+			30
+		],
+		"types": [
+			0
+		],
+		"price": 489,
+		"raiting": 5,
+		"category": 1
+	},
+	{
+		"id": 6,
+		"name": "Пепперони фреш",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/eb6d128bbcd340e98fd4f14b377e769f_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 299,
+		"raiting": 6,
+		"category": 5
+	},
+	{
+		"id": 7,
+		"name": "Четыре сыра 🌱",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/1e3e653d3e9b4b77ae0bdacf8827f6f6_584x584.jpeg",
+		"sizes": [
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 7,
+		"category": 5
+	},
+	{
+		"id": 8,
+		"name": "Мясная",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/afb7bb96c6624a17b69543db3b340c86_584x584.jpeg",
+		"sizes": [
+			25,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 8,
+		"category": 1
+	},
+	{
+		"id": 9,
+		"name": "Четыре сезона",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/a02280d5dd9342f7925538752be9b521_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			1
+		],
+		"price": 439,
+		"raiting": 9,
+		"category": 3
+	},
+	{
+		"id": 10,
+		"name": "Двойная пепперони",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/17f215303faf4fbc86941e27debee436_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 10,
+		"category": 1
+	},
+	{
+		"id": 11,
+		"name": "Супермясная",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/5b5d246f1d154bd39f606d1d72899a27_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": "539",
+		"raiting": 11,
+		"category": 1
+	},
+	{
+		"id": 12,
+		"name": "Колбаски барбекю",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/20734006e66d427fb2cbb8fbb595b21e_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 4,
+		"category": 3
+	},
+	{
+		"id": 13,
+		"name": "Овощи и грибы 🌱",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/3a9785bc5ac145118403de7d22b70fd9_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 6,
+		"category": 2
+	},
+	{
+		"id": 14,
+		"name": "Гавайская",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/5bf1c77b3ff44f93bb01c840ab35b033_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 2,
+		"category": 5
+	},
+	{
+		"id": 15,
+		"name": "Чизбургер-пицца",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/3bc057459afb4b2b8f2781bd1895b3a9_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 639,
+		"raiting": 12,
+		"category": 4
+	},
+	{
+		"id": 16,
+		"name": "Диабло 🌶️🌶️",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/2ac448e39ba24623a33c1d8d50b69ef8_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 20,
+		"category": 4
+	},
+	{
+		"id": 17,
+		"name": "Цыпленок ранч",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/d23af75498eb47a8a586313792da917f_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 8,
+		"category": 1
+	},
+	{
+		"id": 18,
+		"name": "Овощи гриль",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/af39a1a069eb48e58156bd48b925436e_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 329,
+		"raiting": 9,
+		"category": 2
+	},
+	{
+		"id": 19,
+		"name": "Сырный цыпленок",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/01735d5a70154bd3884899030a671629_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 489,
+		"raiting": 5,
+		"category": 3
+	},
+	{
+		"id": 20,
+		"name": "Маргарита 🌱",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/257f9cb7b9ed4e72b6df2b1af3538312_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 389,
+		"raiting": 6,
+		"category": 2
+	},
+	{
+		"id": 21,
+		"name": "Додо",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/f773f5016e154a7f963377494e14d6d4_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 13,
+		"category": 3
+	},
+	{
+		"id": 22,
+		"name": "Аррива!",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/8b6c71a280df4de59e24263df59c4cfa_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 14,
+		"category": 4
+	},
+	{
+		"id": 23,
+		"name": "Домашняя",
+		"imgUrl": "https://cdn.dodostatic.net/static/Img/Products/b473722281944c78ae1d6532576f92fa_584x584.jpeg",
+		"sizes": [
+			25,
+			30,
+			35
+		],
+		"types": [
+			0,
+			1
+		],
+		"price": 439,
+		"raiting": 10,
+		"category": 1
+	}
+]

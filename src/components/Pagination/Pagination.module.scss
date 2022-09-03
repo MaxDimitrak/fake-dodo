@@ -1,0 +1,28 @@
+@import '../../scss/variables';
+.root{
+	ul {
+		margin: 0 auto;
+		width: 165px;
+	}
+	li{
+		display: inline-block;
+		width: 45px;
+		height: 45px;
+		border: 1px solid $orange;
+		border-radius: 30px;
+		margin-right: 10px;
+		cursor: pointer;
+		text-align: center;
+		line-height: 42px;
+
+		&.active {
+			background-color: $orange;
+			color: white;
+		}
+		&:hover {
+			background-color: $orange;
+			color: white;
+		}
+
+	}	
+}
